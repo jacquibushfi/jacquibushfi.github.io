@@ -1,11 +1,11 @@
 # Site settings
 author: Jacqui Bush
-title: 
+title: Making it through to the CLI Project
 header-img: img/home-bg.png
 email: jacqui@stainedglassofmckinney.com
 copyright_name: Jacqui Bush
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CLI Project
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jacquibushfi
