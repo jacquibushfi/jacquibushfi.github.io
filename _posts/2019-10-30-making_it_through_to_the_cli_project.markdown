@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Making it through to the CLI Project"
-date:       2019-10-30 16:33:57 +0000
+date:       2019-10-30 12:33:58 -0400
 permalink:  making_it_through_to_the_cli_project
 ---
 
@@ -10,7 +10,9 @@ Like most of the other blogs I have read, it feels good to have made it through 
 
 I did development back in the 80's and '90's but have not touched it since then. There have been many changes,  but the general concepts and methodologies are pretty much the same.  
 
+
 The CLI project has reminded me of these things.  
+
 
 1. Don't try to memorize everything.  You have Google (wish we had that back then), or books, or teammates to help.
 
